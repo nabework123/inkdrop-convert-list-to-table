@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "convert-list-to-table",
+        "command": "convert-list-to-table"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "convert-list-to-table",
+          "command": "convert-list-to-table"
+        }
+      ]
+    }
+  ]
+}

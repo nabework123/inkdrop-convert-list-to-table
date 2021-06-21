@@ -1,0 +1,16 @@
+{
+  "name": "convert-list-to-table",
+  "main": "./lib/convert-list-to-table",
+  "version": "0.1.0",
+  "description": "Convert list to markdown table.",
+  "keywords": [
+    "list",
+    "table"
+  ],
+  "repository": "https://github.com/nabework123/inkdrop-convert-list-to-table",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {}
+}
