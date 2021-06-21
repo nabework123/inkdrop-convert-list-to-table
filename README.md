@@ -14,6 +14,9 @@ ipm install convert-list-to-table
 ## Usage
 Select the "list" you want to convert to a table.
 
+"list" starts with the following letter.  
+[-ー+*]
+
 ```
 - Hasura
 + Next.js
